@@ -6,7 +6,7 @@
   <br><br>Our prices start at $5,000 for a one-page website, $25,000 for a two-page website, and vice versa.
   <br><br><strong>We’d be happy to build you a website, fill your water gun with water, or blow up some balloons for you.</strong></h3>
 
-- 🔭 We're currently working on [Nice Gadgets Store](https://group-project-2026.onrender.com/)
+- 🔭 We're currently working on [Nice Gadgets Store](https://nicegadgets.online/)
 
 - 🌱 We're currently learning **English**
 
